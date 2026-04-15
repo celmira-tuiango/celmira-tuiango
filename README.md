@@ -34,3 +34,10 @@ Currently expanding my knowledge in DevOps and Security to build, deploy, and se
 ## Background
 
 Student at 42 Luanda, a project-based engineering program focused on self-learning and problem solving. I learn by building projects from scratch.
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-celmira--tuiango-c9748a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celmira-tuiango)
+[![Email](https://img.shields.io/badge/Email-celmiradoespiritosanto%40gmail.com-e8a0b0?style=flat-square&logo=gmail&logoColor=white)](mailto:celmiradoespiritosanto522@gmail.com)
