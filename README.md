@@ -1,4 +1,4 @@
-# Hi, I'm Celmira Tuiango ✌️
+# 👩🏻‍💻 Hi, I'm Celmira Tuiango ✌️
 
 **`Backend & Networking Engineer in Training · 42 Luanda`**
 
@@ -106,6 +106,20 @@ Currently expanding my knowledge in DevOps and Security to build, deploy, and se
 ## Background
 
 Student at 42 Luanda, a project-based engineering program focused on self-learning and problem solving. I learn by building projects from scratch.
+
+---
+
+### 📊 Statistics
+
+<img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=celmira-tuiango&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
+<br/>
+<br/>
 
 ---
 
