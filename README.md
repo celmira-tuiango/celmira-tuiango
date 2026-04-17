@@ -111,9 +111,11 @@ Student at 42 Luanda, a project-based engineering program focused on self-learni
 
 ### 📊 Statistics
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=celmira-tuiango&theme=tokyonight&locale=pt_BR)
+<img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://streak-stats.demolab.com?user=celmira-tuiango&theme=tokyonight&locale=EN_USA"
+/>
 
 </div>
 <br/>
