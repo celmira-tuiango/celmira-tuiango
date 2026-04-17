@@ -14,22 +14,92 @@ Currently expanding my knowledge in DevOps and Security to build, deploy, and se
 
 ## Tech stack
 
-**Foundation**
+**🤖 Languages and Technologies**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-00599C?style=flat&logo=linux&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-00599C?style=flat&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-00599C?style=flat&logo=git&logoColor=white)
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C++"
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Linux"
+    title="Linux" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Bash"
+    title="Bash" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
 
 **Currently Improving**
 
-![Docker](https://img.shields.io/badge/Docker-555555?style=flat&logo=docker&logoColor=white)
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+
+<br/>
+<br/>
 
 **Exploring**
 
-![Python](https://img.shields.io/badge/Python-7209B7?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7209B7?style=flat&logo=node.js&logoColor=white)
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Nodejs"
+    title="Nodejs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
@@ -41,5 +111,24 @@ Student at 42 Luanda, a project-based engineering program focused on self-learni
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-celmira--tuiango-c9748a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celmira-tuiango)
-[![Email](https://img.shields.io/badge/Email-celmiradoespiritosanto%40gmail.com-e8a0b0?style=flat-square&logo=gmail&logoColor=white)](mailto:celmiradoespiritosanto522@gmail.com)
+<a href="https://www.linkedin.com/in/celmira-tuiango" target="_blank">
+  <img
+      align="left" 
+      alt="LinkedIn"
+      title="LinkedIn" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+  />
+</a>
+
+<a href="mailto:celmiradoespiritosanto522@gmail.com">
+  <img
+      align="left" 
+      alt="Email"
+      title="Email" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
+  />
+</a>
