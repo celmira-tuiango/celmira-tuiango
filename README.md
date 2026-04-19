@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Hi, I'm Celmira Tuiango ✌️
 
-**`Backend & Networking Engineer in Training · 42 Luanda`**
+**`Software Engineer · 42 School Luanda`**
 
-I’m a software developer in training focused on backend.
+I’m a software engineer focused on backend.
 
 I build backend systems and network applications in C/C++, such as multi-client servers and real-time communication systems.
 I work with sockets, concurrency, and low-level programming concepts like memory management and system calls.
@@ -15,7 +15,7 @@ Currently expanding my knowledge in DevOps and Security to build, deploy, and se
 ## Tech stack
 
 **🤖 Languages and Technologies**
-
+Backend & Networking 
 <img 
     align="left" 
     alt="C"
